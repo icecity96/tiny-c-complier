@@ -1,0 +1,8 @@
+int i;
+/*
+hello this is just // test
+*/
+if ( i = 1)
+{
+    while( 1 );
+}
